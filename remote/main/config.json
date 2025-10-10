@@ -2,98 +2,18 @@
     "importBase": "import",
     "nativeBase": "native",
     "name": "main",
-    "deps": [
-        "internal"
-    ],
-    "uuids": [
-        "05bbaec60",
-        "0aeadcee8",
-        "24a704da-2867-446d-8d1a-5e920c75e09d",
-        "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a",
-        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
-        "2a4214bc-b56b-4f59-a4f8-551e51b21d03",
-        "2a4214bc-b56b-4f59-a4f8-551e51b21d03@6c48a",
-        "475a708e-7e29-4128-b4d8-8ef9ef0ce56b",
-        "475a708e-7e29-4128-b4d8-8ef9ef0ce56b@6c48a",
-        "475a708e-7e29-4128-b4d8-8ef9ef0ce56b@f9941",
-        "70b2df6f-6158-4e01-9c9f-22a459654812",
-        "70b2df6f-6158-4e01-9c9f-22a459654812@6c48a",
-        "70b2df6f-6158-4e01-9c9f-22a459654812@f9941",
-        "818d1c9c-3a4e-4d7f-af78-ebff20dfcd0a",
-        "818d1c9c-3a4e-4d7f-af78-ebff20dfcd0a@6c48a",
-        "818d1c9c-3a4e-4d7f-af78-ebff20dfcd0a@f9941",
-        "9fd900dd-221b-4f89-8f2c-fba34243c835",
-        "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a",
-        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
-        "ba21476f-2866-4f81-9c4d-6e359316e448",
-        "be832b97-d22b-4b5a-be10-ca1c30f41e98",
-        "d8176920-be5a-4b9a-afc4-675a645e47ea",
-        "d8176920-be5a-4b9a-afc4-675a645e47ea@6c48a",
-        "d8176920-be5a-4b9a-afc4-675a645e47ea@f9941",
-        "f8177f81-4887-45f5-89a3-4d15ad4123bd",
-        "f8177f81-4887-45f5-89a3-4d15ad4123bd@28cdf",
-        "f8177f81-4887-45f5-89a3-4d15ad4123bd@6f884",
-        "f8177f81-4887-45f5-89a3-4d15ad4123bd@97827",
-        "f8177f81-4887-45f5-89a3-4d15ad4123bd@bd567",
-        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
-    ],
-    "paths": {
-        "be832b97-d22b-4b5a-be10-ca1c30f41e98": [
-            "db:/assets/Boost/Main",
-            "cc.SceneAsset",
-            1
-        ],
-        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
-            "db:/internal/default_renderpipeline/builtin-forward",
-            "cc.RenderPipeline",
-            1
-        ],
-        "ba21476f-2866-4f81-9c4d-6e359316e448": [
-            "db:/internal/physics/default-physics-material",
-            "cc.PhysicsMaterial",
-            1
-        ]
-    },
-    "scenes": {
-        "db://assets/Boost/Main.scene": "be832b97-d22b-4b5a-be10-ca1c30f41e98"
-    },
-    "packs": {
-        "05bbaec60": [
-            "2a4214bc-b56b-4f59-a4f8-551e51b21d03@6c48a",
-            "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a",
-            "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a",
-            "70b2df6f-6158-4e01-9c9f-22a459654812@6c48a",
-            "475a708e-7e29-4128-b4d8-8ef9ef0ce56b@6c48a",
-            "818d1c9c-3a4e-4d7f-af78-ebff20dfcd0a@6c48a",
-            "d8176920-be5a-4b9a-afc4-675a645e47ea@6c48a"
-        ],
-        "0aeadcee8": [
-            "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
-            "475a708e-7e29-4128-b4d8-8ef9ef0ce56b@f9941",
-            "70b2df6f-6158-4e01-9c9f-22a459654812@f9941",
-            "818d1c9c-3a4e-4d7f-af78-ebff20dfcd0a@f9941",
-            "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
-            "be832b97-d22b-4b5a-be10-ca1c30f41e98",
-            "d8176920-be5a-4b9a-afc4-675a645e47ea@f9941",
-            "f8177f81-4887-45f5-89a3-4d15ad4123bd",
-            "f8177f81-4887-45f5-89a3-4d15ad4123bd@28cdf",
-            "f8177f81-4887-45f5-89a3-4d15ad4123bd@6f884",
-            "f8177f81-4887-45f5-89a3-4d15ad4123bd@97827",
-            "f8177f81-4887-45f5-89a3-4d15ad4123bd@bd567"
-        ]
-    },
+    "deps": [],
+    "uuids": [],
+    "paths": {},
+    "scenes": {},
+    "packs": {},
     "versions": {
         "import": [],
         "native": []
     },
-    "redirect": [
-        "ba21476f-2866-4f81-9c4d-6e359316e448",
-        "0"
-    ],
+    "redirect": [],
     "debug": true,
     "extensionMap": {},
     "hasPreloadScript": true,
-    "dependencyRelationships": {},
-    "isZip": true,
-    "zipVersion": ""
+    "dependencyRelationships": {}
 }
