@@ -84,6 +84,11 @@
             "cc.Prefab",
             1
         ],
+        "e7ea207b-9ddd-40fa-9c51-267294113b84": [
+            "Skill",
+            "cc.Prefab",
+            1
+        ],
         "efd238bd-9478-4995-a4ed-ca4783c986d8": [
             "yang/bg-2x2",
             "cc.ImageAsset",
@@ -222,11 +227,6 @@
         "3f9ef7a8-3413-40ed-973d-ff40e34d58e3@f9941": [
             "yang/SpriteFrames/characters/characters/spriteFrame",
             "cc.SpriteFrame",
-            1
-        ],
-        "e7ea207b-9ddd-40fa-9c51-267294113b84": [
-            "Skill",
-            "cc.Prefab",
             1
         ]
     },
