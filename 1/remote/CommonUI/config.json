@@ -161,6 +161,11 @@
             "cc.Prefab",
             1
         ],
+        "824d6f8f-7974-4d53-8fa5-09e433227e16": [
+            "Settings",
+            "cc.Prefab",
+            1
+        ],
         "d9fe6ea7-9ee4-434e-ab4e-f59b1dafec0f": [
             "Shop",
             "cc.Prefab",
@@ -514,11 +519,6 @@
         "67ab44af-2286-417f-b76f-0847fd784f6b@f9941": [
             "ui/waiter/spriteFrame",
             "cc.SpriteFrame",
-            1
-        ],
-        "824d6f8f-7974-4d53-8fa5-09e433227e16": [
-            "Settings",
-            "cc.Prefab",
             1
         ]
     },
