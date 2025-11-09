@@ -1,0 +1,89 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "LoginBN",
+    "deps": [],
+    "uuids": [
+        "006b717d-65bf-41a6-a7a7-9ea62c076489",
+        "067dea4f-7b97-42ed-96dd-82f537df3f1d",
+        "266bf574-d484-45e3-b3d6-fc10e308f4c6",
+        "35a6e895-de83-41ab-a9da-118d58cbca7c",
+        "7798911a-6f6d-4a8a-a62c-882e479cf23e",
+        "9208f89f-f649-45fb-a942-11ffd918a992",
+        "c8a2c8df-249e-4adc-b5dd-3c27035bdeca",
+        "cc4d4a16-4c89-49df-8885-c787bd471557",
+        "cc5d1bbb-f6f2-4288-a0ee-ad66e87d2c88",
+        "e48b363e-ec6e-4adb-88bb-ebd772e339e2",
+        "eb2b7df0-6f2a-49f7-80fa-11b39ee64d99"
+    ],
+    "paths": {
+        "35a6e895-de83-41ab-a9da-118d58cbca7c": [
+            "Res/Audio/arrows",
+            "cc.AudioClip",
+            1
+        ],
+        "cc4d4a16-4c89-49df-8885-c787bd471557": [
+            "Res/Audio/bgm",
+            "cc.AudioClip",
+            1
+        ],
+        "067dea4f-7b97-42ed-96dd-82f537df3f1d": [
+            "Res/Audio/buy",
+            "cc.AudioClip",
+            1
+        ],
+        "006b717d-65bf-41a6-a7a7-9ea62c076489": [
+            "Res/Audio/clear",
+            "cc.AudioClip",
+            1
+        ],
+        "e48b363e-ec6e-4adb-88bb-ebd772e339e2": [
+            "Res/Audio/coin",
+            "cc.AudioClip",
+            1
+        ],
+        "cc5d1bbb-f6f2-4288-a0ee-ad66e87d2c88": [
+            "Res/Audio/combo",
+            "cc.AudioClip",
+            1
+        ],
+        "7798911a-6f6d-4a8a-a62c-882e479cf23e": [
+            "Res/Audio/fail",
+            "cc.AudioClip",
+            1
+        ],
+        "eb2b7df0-6f2a-49f7-80fa-11b39ee64d99": [
+            "Res/Audio/lottery",
+            "cc.AudioClip",
+            1
+        ],
+        "c8a2c8df-249e-4adc-b5dd-3c27035bdeca": [
+            "Res/Audio/stop_horse",
+            "cc.AudioClip",
+            1
+        ],
+        "9208f89f-f649-45fb-a942-11ffd918a992": [
+            "Res/Audio/success",
+            "cc.AudioClip",
+            1
+        ],
+        "266bf574-d484-45e3-b3d6-fc10e308f4c6": [
+            "Res/Audio/wind",
+            "cc.AudioClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {},
+    "isZip": true,
+    "zipVersion": ""
+}
