@@ -1,11 +1,7 @@
-System.register("chunks:///_virtual/main", [], function () {
-  return {
-    execute: function () {}
-  };
-});
+System.register("chunks:///_virtual/CommonUI",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/main', 'chunks:///_virtual/main'); 
+  r('virtual:///prerequisite-imports/CommonUI', 'chunks:///_virtual/CommonUI'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
@@ -22,4 +18,3 @@ System.register("chunks:///_virtual/main", [], function () {
     };
     });
 });
-//# sourceMappingURL=index.js.map

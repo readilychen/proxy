@@ -1,11 +1,7 @@
-System.register("chunks:///_virtual/Match3BN", [], function () {
-  return {
-    execute: function () {}
-  };
-});
+System.register("chunks:///_virtual/LoginBN",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/Match3BN', 'chunks:///_virtual/Match3BN'); 
+  r('virtual:///prerequisite-imports/LoginBN', 'chunks:///_virtual/LoginBN'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
@@ -22,4 +18,3 @@ System.register("chunks:///_virtual/Match3BN", [], function () {
     };
     });
 });
-//# sourceMappingURL=index.js.map
