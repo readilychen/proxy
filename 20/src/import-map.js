@@ -44,7 +44,7 @@ var _default = {
     "../cocos-js/camera-component-BYLoENg6.js": "plugin:cocos/camera-component-BYLoENg6.js",
     "../cocos-js/pipeline-scene-data-B3Lr-W6Q.js": "plugin:cocos/pipeline-scene-data-B3Lr-W6Q.js",
     "../cocos-js/render-types-DTmbYHic.js": "plugin:cocos/render-types-DTmbYHic.js",
-    "cc": "./../cocos-js/cc.5c63c.js"
+    "cc": "./../cocos-js/cc.js"
   }
 };
 exports["default"] = _default;
