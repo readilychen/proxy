@@ -5,8 +5,13 @@
     {
       "file": "bundles-1.zip",
       "bundles": [
+        "SanguoWushuangBN"
+      ]
+    },
+    {
+      "file": "bundles-2.zip",
+      "bundles": [
         "ZouZouBN",
-        "SanguoWushuangBN",
         "Match3BN",
         "CommonUI",
         "Tujian",
