@@ -1,0 +1,23 @@
+{
+  "version": "26082821",
+  "isEncrypted": true,
+  "zips": [
+    {
+      "file": "bundles-1.zip",
+      "bundles": [
+        "SanguoWushuangBN",
+        "CommonUI",
+        "Tujian",
+        "GScriptBN"
+      ]
+    },
+    {
+      "file": "bundles-2.zip",
+      "bundles": [
+        "ZouZouBN",
+        "Match3BN",
+        "LoginBN"
+      ]
+    }
+  ]
+}
